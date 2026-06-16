@@ -31,12 +31,9 @@ Specialization: Finance & Fintech Domain
 - Aggregate Functions
 - CASE, COALESCE, UNION
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirban%20Das-blue)](https://www.linkedin.com/in/anirban-das-analyst)
-[![GitHub](https://img.shields.io/badge/GitHub-anirban--das--analyst-black)](https://github.com/anirban-das-analyst)
+
 ## Contributing
 
 If you find this repository useful, please give it a ⭐.
-
 Feel free to explore the solutions and use them for learning purposes.
 
