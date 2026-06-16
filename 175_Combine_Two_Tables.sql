@@ -1,9 +1,9 @@
-
-SELECT
-    p.firstName,
-    p.lastName,
-    a.city,
-    a.state
-FROM Person p
-LEFT JOIN Address a
-ON p.personId = a.personId;
+q.175. Combine Two Tables
+  ---------------------------------  
+Code:- 
+        SELECT
+            p.firstname,p.lastname,
+            a.city,a.state
+        FROM person p
+        LEFT JOIN
+            address A ON p.personid = a.personid;
