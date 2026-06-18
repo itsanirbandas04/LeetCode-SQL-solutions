@@ -2,7 +2,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
-![Problems](https://img.shields.io/badge/Solved-2%2F50-green)
+![Problems](https://img.shields.io/badge/Solved-6%2F50-green)
 
 ## About
 This repository contains my solutions to the **LeetCode SQL 50** problem set — 
