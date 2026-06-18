@@ -18,10 +18,10 @@ Specialization: Finance & Fintech Domain
 ## Progress Tracker
 | Difficulty | Solved | Total |
 |------------|--------|-------|
-| Easy | 0 | 2 |
+| Easy | 0 | 6 |
 | Medium | 0 | 0 |
 | Hard | 0 | 0 |
-| **Total** | **0** | **2** |
+| **Total** | **0** | **6** |
 
 ## Skills Demonstrated
 - SELECT, WHERE, GROUP BY, HAVING
