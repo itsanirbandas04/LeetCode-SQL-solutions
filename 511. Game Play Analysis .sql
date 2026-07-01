@@ -1,0 +1,5 @@
+-- Write your PostgreSQL query statement below
+SELECT player_id ,
+MIN(event_date ) as first_login
+from activity
+GROUP BY player_id;
